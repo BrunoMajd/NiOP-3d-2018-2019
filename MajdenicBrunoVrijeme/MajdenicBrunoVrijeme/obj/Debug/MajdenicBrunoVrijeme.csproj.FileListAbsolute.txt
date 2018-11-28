@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\bin\Debug\MajdenicBrunoVrijeme.exe.config
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\bin\Debug\MajdenicBrunoVrijeme.exe
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\bin\Debug\MajdenicBrunoVrijeme.pdb
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\obj\Debug\MajdenicBrunoVrijeme.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\obj\Debug\MajdenicBrunoVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\obj\Debug\MajdenicBrunoVrijeme.exe
+C:\Users\Učenik\source\repos\MajdenicBrunoVrijeme\MajdenicBrunoVrijeme\obj\Debug\MajdenicBrunoVrijeme.pdb
