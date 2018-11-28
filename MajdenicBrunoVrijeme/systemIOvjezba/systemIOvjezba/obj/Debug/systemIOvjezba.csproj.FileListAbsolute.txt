@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\obj\Debug\systemIOvjezba.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\obj\Debug\systemIOvjezba.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\bin\Debug\systemIOvjezba.exe.config
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\bin\Debug\systemIOvjezba.exe
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\bin\Debug\systemIOvjezba.pdb
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\obj\Debug\systemIOvjezba.exe
+C:\Users\Učenik\source\repos\systemIOvjezba\systemIOvjezba\obj\Debug\systemIOvjezba.pdb
