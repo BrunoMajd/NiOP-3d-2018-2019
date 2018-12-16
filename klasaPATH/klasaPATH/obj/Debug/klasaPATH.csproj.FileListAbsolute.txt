@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\klasaPATH\klasaPATH\bin\Debug\klasaPATH.exe.config
+C:\Users\korisnik\source\repos\klasaPATH\klasaPATH\bin\Debug\klasaPATH.exe
+C:\Users\korisnik\source\repos\klasaPATH\klasaPATH\bin\Debug\klasaPATH.pdb
+C:\Users\korisnik\source\repos\klasaPATH\klasaPATH\obj\Debug\klasaPATH.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\klasaPATH\klasaPATH\obj\Debug\klasaPATH.exe
+C:\Users\korisnik\source\repos\klasaPATH\klasaPATH\obj\Debug\klasaPATH.pdb

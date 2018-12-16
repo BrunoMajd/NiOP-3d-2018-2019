@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\DirectoryInfoFileInfo\DirectoryInfoFileInfo\bin\Debug\DirectoryInfoFileInfo.exe.config
+C:\Users\korisnik\source\repos\DirectoryInfoFileInfo\DirectoryInfoFileInfo\bin\Debug\DirectoryInfoFileInfo.exe
+C:\Users\korisnik\source\repos\DirectoryInfoFileInfo\DirectoryInfoFileInfo\bin\Debug\DirectoryInfoFileInfo.pdb
+C:\Users\korisnik\source\repos\DirectoryInfoFileInfo\DirectoryInfoFileInfo\obj\Debug\DirectoryInfoFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\DirectoryInfoFileInfo\DirectoryInfoFileInfo\obj\Debug\DirectoryInfoFileInfo.exe
+C:\Users\korisnik\source\repos\DirectoryInfoFileInfo\DirectoryInfoFileInfo\obj\Debug\DirectoryInfoFileInfo.pdb
