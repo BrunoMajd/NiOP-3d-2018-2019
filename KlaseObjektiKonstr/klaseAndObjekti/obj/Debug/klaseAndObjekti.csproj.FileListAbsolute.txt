@@ -1,0 +1,14 @@
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\bin\Debug\klaseAndObjekti.exe.config
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\bin\Debug\klaseAndObjekti.exe
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\bin\Debug\klaseAndObjekti.pdb
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.csprojResolveAssemblyReference.cache
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.csproj.CoreCompileInputs.cache
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.exe
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.pdb
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\bin\Debug\klaseAndObjekti.exe.config
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\bin\Debug\klaseAndObjekti.exe
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\bin\Debug\klaseAndObjekti.pdb
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\obj\Debug\klaseAndObjekti.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\obj\Debug\klaseAndObjekti.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\obj\Debug\klaseAndObjekti.exe
+C:\Users\korisnik\source\repos\KlaseObjektiKonstruktori01-master\klaseAndObjekti\obj\Debug\klaseAndObjekti.pdb
